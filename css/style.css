@@ -80,9 +80,9 @@ input.empty {
 
 #sticky-sidebar {
 
-
-  position: sticky;
-  top: 0;
+  
+  position: fixed;
+  
   
   
   
